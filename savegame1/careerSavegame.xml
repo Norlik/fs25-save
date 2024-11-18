@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<careerSavegame revision="2" valid="true">
+    <settings>
+        <savegameName>Ma partie</savegameName>
+        <creationDate>2024-11-12</creationDate>
+        <mapId>MapEU</mapId>
+        <mapTitle>Zielonka</mapTitle>
+        <saveDateFormatted>17/11/2024</saveDateFormatted>
+        <saveDate>2024-11-17</saveDate>
+        <initialMoney>500000</initialMoney>
+        <initialLoan>250000</initialLoan>
+        <economicDifficulty>EASY</economicDifficulty>
+        <hasInitiallyOwnedFarmlands>false</hasInitiallyOwnedFarmlands>
+        <loadDefaultFarm>false</loadDefaultFarm>
+        <startWithGuidedTour>false</startWithGuidedTour>
+        <trafficEnabled>true</trafficEnabled>
+        <stopAndGoBraking>true</stopAndGoBraking>
+        <trailerFillLimit>false</trailerFillLimit>
+        <automaticMotorStartEnabled>false</automaticMotorStartEnabled>
+        <growthMode>2</growthMode>
+        <plannedDaysPerPeriod>1</plannedDaysPerPeriod>
+        <fruitDestruction>false</fruitDestruction>
+        <plowingRequiredEnabled>false</plowingRequiredEnabled>
+        <stonesEnabled>false</stonesEnabled>
+        <weedsEnabled>false</weedsEnabled>
+        <limeRequired>false</limeRequired>
+        <isSnowEnabled>false</isSnowEnabled>
+        <fuelUsage>2</fuelUsage>
+        <helperBuyFuel>true</helperBuyFuel>
+        <helperBuySeeds>true</helperBuySeeds>
+        <helperBuyFertilizer>true</helperBuyFertilizer>
+        <helperSlurrySource>2</helperSlurrySource>
+        <helperManureSource>2</helperManureSource>
+        <densityMapRevision>4</densityMapRevision>
+        <terrainTextureRevision>1</terrainTextureRevision>
+        <terrainLodTextureRevision>2</terrainLodTextureRevision>
+        <splitShapesRevision>2</splitShapesRevision>
+        <tipCollisionRevision>2</tipCollisionRevision>
+        <placementCollisionRevision>2</placementCollisionRevision>
+        <navigationCollisionRevision>2</navigationCollisionRevision>
+        <mapDensityMapRevision>1</mapDensityMapRevision>
+        <mapTerrainTextureRevision>1</mapTerrainTextureRevision>
+        <mapTerrainLodTextureRevision>1</mapTerrainLodTextureRevision>
+        <mapSplitShapesRevision>1</mapSplitShapesRevision>
+        <mapTipCollisionRevision>1</mapTipCollisionRevision>
+        <mapPlacementCollisionRevision>1</mapPlacementCollisionRevision>
+        <mapNavigationCollisionRevision>1</mapNavigationCollisionRevision>
+        <disasterDestructionState>ENABLED</disasterDestructionState>
+        <dirtInterval>3</dirtInterval>
+        <timeScale>0.500000</timeScale>
+        <autoSaveInterval>5.000000</autoSaveInterval>
+    </settings>
+    <map>
+        <foundHelpIcons>00000000000000000000</foundHelpIcons>
+    </map>
+    <introductionHelp active="false">
+        <shownElements></shownElements>
+        <shownHints></shownHints>
+    </introductionHelp>
+    <statistics>
+        <money>172083</money>
+        <playTime>2325.457031</playTime>
+    </statistics>
+    <mapsSplitShapeFileIds count="1">
+        <id id="0"/>
+    </mapsSplitShapeFileIds>
+    <slotSystem slotUsage="655"/>
+    <mod modName="FS25_PerfectEdge" title="BordureParfaite" version="1.0.0.0" required="false" fileHash="849d11728cf289af2b68aacfe6e44656"/>
+    <mod modName="pdlc_macDonPack" title="MacDon Pack" version="1.1.0.0" required="false" fileHash="a910fbe59bd919187cacbfc7b63ec5a6"/>
+    <mod modName="FS25_kuhnMergeMaxx950" title="Kuhn MergeMaxx 950" version="1.0.0.0" required="false" fileHash="93a7bacdbfa93b6c86776756d7653389"/>
+    <mod modName="FS25_johnDeereSeries7810" title="John Deere 7810" version="1.0.0.0" required="false" fileHash="36e35e464e54fe7d728258e1117467f8"/>
+    <mod modName="FS25_productionsLimitIncreaser120" title="More Productions Possible (120)" version="1.0.0.0" required="false" fileHash="8711827e44e6668a8fa53ed317149ce7"/>
+    <mod modName="FS25_claasJaguarPack" title="CLAAS JAGUAR 990-930" version="1.0.0.0" required="false" fileHash="1d54714e59e62f9d02afb1af09d5b95d"/>
+    <mod modName="FS25_animalLimitIncreaser64" title="More Animal Husbandries Possible (64)" version="1.0.0.0" required="false" fileHash="f9ea6f465013e7f0aeafa385e8e47127"/>
+    <mod modName="FS25_RounderWrappedRoundbales" title="Rounder Wrapped Round Bales" version="1.0.0.0" required="false" fileHash="d79b50699807d6cfe20a975f4df24035"/>
+    <mod modName="FS25_nordstenNS3030" title="Nordsten NS 3003" version="1.0.0.0" required="false" fileHash="e7897eb2e27615d6d3337112527848b7"/>
+    <mod modName="FS25_SuperForce_KingMods" title="Super Force (KingMods)" version="1.0.0.0" required="false" fileHash="32aa4e9e6e3b8aefb4838f840dd68881"/>
+    <mod modName="FS25_agcoSeries9700" title="AGCO Allis Series 9700" version="1.0.0.0" required="false" fileHash="940998dd1ac44b7a5bee7761167d1ac3"/>
+    <mod modName="FS25_PlaceTerraformPaintAnywhere_KingMods" title="Place, Terraform and Paint Anywhere (KingMods)" version="1.0.0.0" required="false" fileHash="609bac723092b75795b8b2fd9d350785"/>
+    <mod modName="FS25_seeder1500notill" title="Great PLains 1500 no-till drill" version="1.0.0.0" required="false" fileHash="56615d82aec331bca91d0ab39ea2c43e"/>
+    <mod modName="FS25_kuhnGF8712" title="Kuhn GF 8712" version="1.0.0.0" required="false" fileHash="1ce0acb266441c07c93d2d0bbe0e6cec"/>
+    <mod modName="FS25_kuhnGMD4411" title="Kuhn GMD 4411" version="1.0.0.0" required="false" fileHash="cad2b29c30036a2f367ecadead5db8b1"/>
+    <mod modName="FS25_ContractServiceProvider" title="ContractServiceProvider" version="1.0" required="false" fileHash="233b1b890f45b2d8164d17a9d3b5bb4a"/>
+    <mod modName="FS25_kuhnVenta4030" title="Kuhn HR 4040 + VENTA 4030" version="1.0.0.0" required="false" fileHash="2875347c260f8e5eb7428b7b51421658"/>
+    <mod modName="FS25_johnDeerePlanter1775NT" title="John Deere 1775NT" version="1.0.0.0" required="false" fileHash="3562e6f97eff646cde64760748dfae2a"/>
+    <mod modName="FS25_SpecialOffers" title="Offres Spéciales" version="1.0.0.0" required="false" fileHash="37028aa56d81168c9d2fa853a72bbb0d"/>
+    <mod modName="FS25_FrontCultivator" title="Cultivateur Avant" version="1.0.0.0" required="false" fileHash="48cce320122953cfb5eecafb948269f6"/>
+</careerSavegame>

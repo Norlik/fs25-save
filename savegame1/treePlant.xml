@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<treePlant>
+    <tree treeType="TRANSPORT" position="757.9134 80.0158 0.4120" rotation="13.2087 73.8579 105.2778" growthStateI="1" isGrowing="false" splitShapeFileId="1"/>
+    <tree treeType="TRANSPORT" position="757.9436 80.0502 -0.2646" rotation="55.0315 86.0752 148.1238" growthStateI="1" isGrowing="false" splitShapeFileId="2"/>
+    <tree treeType="TRANSPORT" position="757.9097 80.0542 -0.8861" rotation="37.5477 85.0662 130.5977" growthStateI="1" isGrowing="false" splitShapeFileId="3"/>
+    <tree treeType="TRANSPORT" position="757.7220 80.0651 -1.5175" rotation="44.0834 85.7520 137.4211" growthStateI="1" isGrowing="false" splitShapeFileId="4"/>
+    <tree treeType="TRANSPORT" position="757.7585 80.0783 -2.1774" rotation="44.6161 85.3201 138.1078" growthStateI="1" isGrowing="false" splitShapeFileId="5"/>
+    <tree treeType="TRANSPORT" position="757.7956 80.0860 -2.8389" rotation="69.5356 86.2826 163.0831" growthStateI="1" isGrowing="false" splitShapeFileId="6"/>
+    <tree treeType="TRANSPORT" position="757.6080 80.0941 -3.4651" rotation="76.0472 86.5355 169.8693" growthStateI="1" isGrowing="false" splitShapeFileId="7"/>
+    <tree treeType="TRANSPORT" position="757.7183 80.1134 -4.1153" rotation="90.9530 86.7519 -175.0122" growthStateI="1" isGrowing="false" splitShapeFileId="8"/>
+    <tree treeType="TRANSPORT" position="757.7852 80.5335 0.1003" rotation="131.2873 86.0066 -134.3454" growthStateI="1" isGrowing="false" splitShapeFileId="9"/>
+    <tree treeType="TRANSPORT" position="757.8168 80.5791 -0.5709" rotation="147.6576 84.1377 -117.6587" growthStateI="1" isGrowing="false" splitShapeFileId="10"/>
+    <tree treeType="TRANSPORT" position="757.8526 80.5878 -1.1881" rotation="103.3972 87.1258 -161.9704" growthStateI="1" isGrowing="false" splitShapeFileId="11"/>
+    <tree treeType="TRANSPORT" position="757.7433 80.5912 -1.8414" rotation="120.4966 86.5122 -144.7867" growthStateI="1" isGrowing="false" splitShapeFileId="12"/>
+    <tree treeType="TRANSPORT" position="757.6274 80.5885 -2.4952" rotation="92.2045 86.6470 -172.9725" growthStateI="1" isGrowing="false" splitShapeFileId="13"/>
+    <tree treeType="TRANSPORT" position="757.6625 80.6158 -3.1360" rotation="67.5515 86.4696 162.6328" growthStateI="1" isGrowing="false" splitShapeFileId="14"/>
+    <tree treeType="TRANSPORT" position="757.5504 80.6198 -3.7786" rotation="72.4326 86.6440 167.7382" growthStateI="1" isGrowing="false" splitShapeFileId="15"/>
+</treePlant>

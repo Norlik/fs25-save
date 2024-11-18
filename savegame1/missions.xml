@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<missions version="0">
+    <meta>
+        <destructibleRockMission nextDay="165"/>
+    </meta>
+    <treeTransportMission uniqueId="missioned9af4b11905f8449177067ec7fd450c" status="CREATED" finishState="NONE" spotIndex="6" numTrees="19" numDeliveredTrees="0" numDeletedTrees="0">
+        <info reward="10450" reimbursement="0.000000" completion="0.000000"/>
+        <vehicles spawned="false" group="1"/>
+        <endDate endDay="160" endDayTime="64800000"/>
+        <sellingStation uniqueId="placeabledc02dfbf6746d8942d9e7f45e06af6fd" unloadingStationIndex="1"/>
+    </treeTransportMission>
+    <deadwoodMission uniqueId="mission51692286eee4974a2e2834cfeae2e9e1" status="CREATED" finishState="NONE" spotIndex="10">
+        <info reward="750" reimbursement="0.000000" completion="0.000000"/>
+        <vehicles spawned="false" group="2"/>
+        <endDate endDay="160" endDayTime="43200000"/>
+        <originalTree splitShapePart1="1" splitShapePart2="3719" splitShapePart3="0"/>
+        <originalTree splitShapePart1="1" splitShapePart2="3660" splitShapePart3="0"/>
+        <originalTree splitShapePart1="1" splitShapePart2="3626" splitShapePart3="0"/>
+        <originalTree splitShapePart1="1" splitShapePart2="7389" splitShapePart3="0"/>
+        <originalTree splitShapePart1="1" splitShapePart2="3600" splitShapePart3="0"/>
+    </deadwoodMission>
+    <destructibleRockMission uniqueId="mission2cc66e09faf41f0723457c0290e74e07" status="CREATED" finishState="NONE" spotIndex="4" numRocksDestroyed="0">
+        <info reward="2200" reimbursement="0.000000" completion="0.000000"/>
+        <vehicles spawned="false" group="1"/>
+        <endDate endDay="162" endDayTime="46800000"/>
+        <destructible groupId="4" index="3"/>
+        <destructible groupId="4" index="2"/>
+        <destructible groupId="4" index="1"/>
+        <destructible groupId="4" index="0"/>
+        <destructible groupId="4" index="4" isPartOfMission="false"/>
+    </destructibleRockMission>
+    <harvestMission uniqueId="missionce68c13ccc6cb80a5767ee366894ff02" status="CREATED" finishState="NONE">
+        <harvest fruitType="BEETROOT" expectedLiters="0.000000" depositedLiters="0.000000" sellingStationPlaceableUniqueId="placeable6195ed5683052d3106a8cef4aa2b9dbf" unloadingStationIndex="1"/>
+        <info reward="0" reimbursement="0.000000" completion="0.000000"/>
+        <vehicles spawned="false" group="12"/>
+        <endDate endDay="160" endDayTime="86399999"/>
+        <field id="8"/>
+    </harvestMission>
+    <plowMission uniqueId="mission1af7321561010db2988604a01d16286d" status="CREATED" finishState="NONE">
+        <info reward="0" reimbursement="0.000000" completion="0.000000"/>
+        <vehicles spawned="false" group="1"/>
+        <endDate endDay="160" endDayTime="86399999"/>
+        <field id="7"/>
+    </plowMission>
+    <baleMission uniqueId="missionf26a05fa262faa3477dccc8cb41a0f4c" status="CREATED" finishState="NONE" fruitType="BARLEY" needRoundbaler="true" spawnedLiters="0.000000" finishedSwathSpawning="false">
+        <info reward="0" reimbursement="0.000000" completion="0.000000"/>
+        <vehicles spawned="false" group="3"/>
+        <endDate endDay="160" endDayTime="86399999"/>
+        <field id="35"/>
+    </baleMission>
+    <sowMission uniqueId="mission1212efd5856c06fe3d046907de4558c7" status="CREATED" finishState="NONE" fruitType="SORGHUM">
+        <info reward="0" reimbursement="0.000000" completion="0.000000"/>
+        <vehicles spawned="false" group="1"/>
+        <endDate endDay="160" endDayTime="86399999"/>
+        <field id="18"/>
+    </sowMission>
+    <fertilizeMission uniqueId="mission810ae7c2c3d48df6226646bcd3a40e7a" status="CREATED" finishState="NONE" targetSprayLevel="1">
+        <info reward="0" reimbursement="0.000000" completion="0.000000"/>
+        <vehicles spawned="false" group="1"/>
+        <endDate endDay="160" endDayTime="86399999"/>
+        <field id="89"/>
+    </fertilizeMission>
+    <cultivateMission uniqueId="missionac41cb3b1daad38be06ddc59fd1e0558" status="CREATED" finishState="NONE">
+        <info reward="0" reimbursement="0.000000" completion="0.000000"/>
+        <vehicles spawned="false" group="4"/>
+        <endDate endDay="160" endDayTime="86399999"/>
+        <field id="50"/>
+    </cultivateMission>
+    <fertilizeMission uniqueId="mission3ed75f38623a0ccdeb04ad02586dd5c9" status="CREATED" finishState="NONE" targetSprayLevel="1">
+        <info reward="0" reimbursement="0.000000" completion="0.000000"/>
+        <vehicles spawned="false" group="1"/>
+        <endDate endDay="160" endDayTime="86399999"/>
+        <field id="60"/>
+    </fertilizeMission>
+    <mowMission uniqueId="missionafe00b7ad16ff5b289c1caf9e2c1a26d" status="CREATED" finishState="NONE" fruitType="GRASS">
+        <info reward="0" reimbursement="0.000000" completion="0.000000"/>
+        <vehicles spawned="false" group="3"/>
+        <endDate endDay="160" endDayTime="86399999"/>
+        <field id="29"/>
+    </mowMission>
+</missions>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<npcs>
+    <npc name="GRANDPA" spotUniqueId="GRANDPA_FARMHOUSE">
+        <player uniqueUserId="DxRzB0mtUqRma/REtf80m3m1z6v1NggX9UOeMwt6vw8=" numContacts="5">
+            <conversation uniqueId="0eb8244863" numTriggered="1" lastMonotonicDay="25" lastDate="2024/11/12 22:46"/>
+            <conversation uniqueId="55ed571b91" numTriggered="1" lastMonotonicDay="25" lastDate="2024/11/12 22:46"/>
+            <conversation uniqueId="5b513c4a53" numTriggered="1" lastMonotonicDay="25" lastDate="2024/11/12 22:46"/>
+            <conversation uniqueId="0bc5b0ce93" numTriggered="2" lastMonotonicDay="25" lastDate="2024/11/12 22:46"/>
+        </player>
+    </npc>
+    <npc name="FORESTER" spotUniqueId="FORESTER_SHED"/>
+    <npc name="FARMER" spotUniqueId="FARMER_HOUSE"/>
+    <npc name="HELPER" spotUniqueId="HELPER_HOUSE"/>
+    <npc name="ANIMAL_DEALER" spotUniqueId="ANIMAL_DEALER_SHOP"/>
+</npcs>
